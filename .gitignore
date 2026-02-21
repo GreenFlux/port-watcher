@@ -1,0 +1,16 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserdata
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/contents.xcworkspacedata
+!PortWatcher.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Claude
+.claude/
