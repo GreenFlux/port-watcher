@@ -19,6 +19,7 @@
 ## Requirements
 
 - macOS 14+
+- Xcode (to build from source)
 
 ## Install
 
