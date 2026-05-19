@@ -32,10 +32,9 @@ The build is signed and notarized by GreenFlux, LLC — no Gatekeeper warnings, 
 ### Homebrew
 
 ```bash
+brew tap GreenFlux/tap
 brew install --cask port-watcher
 ```
-
-*(Coming after the first stable release.)*
 
 ### Build from source
 
