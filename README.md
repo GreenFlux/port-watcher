@@ -60,7 +60,7 @@ Without it, the app still works but the `cwd` column shows `Unknown` for process
 ## Requirements
 
 - macOS 14 (Sonoma) or later
-- Apple Silicon or Intel
+- Apple Silicon (M1 or later)
 
 ## Contributing
 
